@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+
+body {
+	width: 1366px;
+	margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #D71A38;
+   
+}
+
+.BboksFlex {
+	display: flex;
+}
+.Aboks {
+    width: 683px;
+    height: 768px;
+    float: right;
+    order: 2;
+    background-color: #193CAD;
+    border-bottom-right-radius: 25px;
+    border-left: thick solid #D71A38;
+}
+.cboksflex {
+    order: 1;
+   
+}
